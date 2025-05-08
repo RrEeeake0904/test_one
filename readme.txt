@@ -1,4 +1,4 @@
-creat a new branch is quick & simple.
+tackle the bug:issue-101.
 
 Creating a new branch is quick AND simple
 
