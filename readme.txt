@@ -7,5 +7,4 @@ the Third day -- use the branch.
 
 ---doing works while receiving the other tasks
 
-merge after commit the dev work.
-the second time to change the content.
+success copy the issue-102 to dev-unfinished-work!
