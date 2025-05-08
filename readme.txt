@@ -1,4 +1,4 @@
-tackle the bug:issue-101.
+tackle the bug:issue-102.
 
 Creating a new branch is quick AND simple
 
