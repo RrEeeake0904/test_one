@@ -4,7 +4,6 @@ Creating a new branch is quick AND simple
 
 the Third day -- use the branch.
 
-the second time to change the content.
----doing works while receiving the other tasks
-merge after commit the dev work.
+
+---doing works while receiving the other task.
 
